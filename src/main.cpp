@@ -11,9 +11,10 @@ int main(int argc, char *argv[])
     cout << i << "\n";
   }
 
-  while (false) {
-    // changes (2) made in branch dev
-    cout << "Never got here ever. :-)" << "\n";
+  while (true) {
+    // change (2) made on branch hw-rebase-conflict
+    // smile
+    cout << ":)))" << "\n";
   }
 
   return 0;
