@@ -4,6 +4,8 @@ using namespace std;
 
 #define INTMAX INT_MAX
 
+void multiply(int a, int b);
+
 int main(int argc, char *argv[])
 {
   int i, N = 10;
