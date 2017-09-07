@@ -2,23 +2,21 @@
 
 using namespace std;
 
-// define some macro
+#define INTMAX INT_MAX
 
 int main(int argc, char *argv[])
 {
-  // and so on
+  int i, N = 10;
 
   for (i = 0; i < N; ++i) {
-    // TODO
+    cout << "i = " << i << "\n";
   }
-
-  // another modification
 
   while (true) {
-    // TODO
+    cout << ":)))" << "\n";
   }
 
-  // some modification
+  cout << "Bye!" << "\n";
 
   return 0;
 }
