@@ -5,6 +5,7 @@ using namespace std;
 #define INTMAX INT_MAX
 
 void add(int x, int y);
+void multiply(int a, int b);
 
 int main(int argc, char *argv[])
 {
